@@ -61,3 +61,7 @@ Coalesce(col1, col2, col3..) – null 아닌 첫번째 값 반환
 컬럼명으로 정렬, 앞의 기준이 같을 때 그 다음 컬럼으로 정렬
 기본값은 asc(오름차순), desc는 내림차순
 Order by col1, col2 des
+
+컬럼명으로 정렬, 앞의 기준이 같을 때 그 다음 컬럼으로 정렬
+기본값은 asc(오름차순), desc는 내림차순
+Order by col1, col2 desc
