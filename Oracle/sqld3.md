@@ -44,4 +44,4 @@ PUBLIC} [CASCADE CONSTRAINTS];
 23. VIEW
 - 독립성, 편의성, 보안성
 - SQL을 저장하는 개념
-24.dddddd
+
